@@ -16,3 +16,7 @@ http://www.baseball-reference.com/players/p/penaca01.shtml
 http://www.baseball-reference.com/players/g/griffke02.shtml
 9
 http://www.baseball-reference.com/players/h/howarry01.shtml
+10
+http://www.baseball-reference.com/players/b/bondsba01.shtml
+11
+http://www.baseball-reference.com/players/p/pujolal01.shtml
