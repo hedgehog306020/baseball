@@ -2,11 +2,12 @@ B
 http://www.baseball-reference.com/players/b/bondsba01.shtml
 http://www.baseball-reference.com/players/b/beltrad01.shtml
 http://www.baseball-reference.com/players/b/beltrca01.shtml
-http://www.baseball-reference.com/players/g/gilesbr02.shtml
+
 
 C
 http://www.baseball-reference.com/players/c/castivi02.shtml
 http://www.baseball-reference.com/players/c/crawfca02.shtml
+http://www.baseball-reference.com/players/c/cruzne02.shtml
 
 D
 http://www.baseball-reference.com/players/d/dunnad01.shtml
@@ -33,6 +34,7 @@ M
 http://www.baseball-reference.com/players/m/mcgwima01.shtml
 http://www.baseball-reference.com/players/m/martied01.shtml
 http://www.baseball-reference.com/players/m/mattido01.shtml
+http://www.baseball-reference.com/players/m/martiti02.shtml
 
 O
 http://www.baseball-reference.com/players/o/ortizda01.shtml
@@ -41,9 +43,19 @@ P
 http://www.baseball-reference.com/players/p/pujolal01.shtml
 http://www.baseball-reference.com/players/p/penaca01.shtml
 
+
 S
 http://www.baseball-reference.com/players/s/sosasa01.shtml
+http://www.baseball-reference.com/players/s/strawda01.shtml
 
 T
 http://www.baseball-reference.com/players/t/thomeji01.shtml
 http://www.baseball-reference.com/players/t/thomafr04.shtml
+
+
+V
+http://www.baseball-reference.com/players/v/vottojo01.shtml
+
+W
+http://www.baseball-reference.com/players/w/winfida01.shtml
+http://www.baseball-reference.com/players/w/walkela01.shtml
