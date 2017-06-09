@@ -2,12 +2,18 @@ B
 http://www.baseball-reference.com/players/b/bondsba01.shtml
 http://www.baseball-reference.com/players/b/beltrad01.shtml
 http://www.baseball-reference.com/players/b/beltrca01.shtml
+http://www.baseball-reference.com/players/b/burrepa01.shtml
+http://www.baseball-reference.com/players/b/burnije01.shtml
+http://www.baseball-reference.com/players/b/braunry02.shtml
+http://www.baseball-reference.com/players/b/boonebr01.shtml
 
 
 C
 http://www.baseball-reference.com/players/c/castivi02.shtml
 http://www.baseball-reference.com/players/c/crawfca02.shtml
 http://www.baseball-reference.com/players/c/cruzne02.shtml
+http://www.baseball-reference.com/players/c/cansejo01.shtml
+http://www.baseball-reference.com/players/c/cabremi01.shtml
 
 D
 http://www.baseball-reference.com/players/d/dunnad01.shtml
