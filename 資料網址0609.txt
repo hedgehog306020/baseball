@@ -6,6 +6,8 @@ http://www.baseball-reference.com/players/b/burrepa01.shtml
 http://www.baseball-reference.com/players/b/burnije01.shtml
 http://www.baseball-reference.com/players/b/braunry02.shtml
 http://www.baseball-reference.com/players/b/boonebr01.shtml
+http://www.baseball-reference.com/players/b/berkmla01.shtml
+http://www.baseball-reference.com/players/b/bagweje01.shtml
 
 
 C
@@ -18,6 +20,7 @@ http://www.baseball-reference.com/players/c/cabremi01.shtml
 D
 http://www.baseball-reference.com/players/d/dunnad01.shtml
 http://www.baseball-reference.com/players/d/delgaca01.shtml
+
 
 F
 http://www.baseball-reference.com/players/f/fieldpr01.shtml
@@ -73,7 +76,9 @@ http://www.baseball-reference.com/players/t/thomafr04.shtml
 
 V
 http://www.baseball-reference.com/players/v/vottojo01.shtml
+http://www.baseball-reference.com/players/v/vaughmo01.shtml
 
 W
 http://www.baseball-reference.com/players/w/winfida01.shtml
 http://www.baseball-reference.com/players/w/walkela01.shtml
+http://www.baseball-reference.com/players/w/willima04.shtml
