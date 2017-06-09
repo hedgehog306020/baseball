@@ -15,26 +15,35 @@ http://www.baseball-reference.com/players/d/delgaca01.shtml
 
 F
 http://www.baseball-reference.com/players/f/fieldpr01.shtml
+http://www.baseball-reference.com/players/f/fiskca01.shtml
 
 G
 http://www.baseball-reference.com/players/g/gonzaju03.shtml
 http://www.baseball-reference.com/players/g/griffke02.shtml
+http://www.baseball-reference.com/players/g/glaustr01.shtml
+http://www.baseball-reference.com/players/g/giambja01.shtml
 
 H
 http://www.baseball-reference.com/players/h/howarry01.shtml
 http://www.baseball-reference.com/players/h/heltoto01.shtml
 
 K
-http://www.baseball-reference.com/players/g/griffke02.shtml 
+http://www.baseball-reference.com/players/k/kingmda01.shtml
+http://www.baseball-reference.com/players/k/kentje01.shtml
 
 L
 http://www.baseball-reference.com/players/l/leede02.shtml
+http://www.baseball-reference.com/players/l/ludwiry01.shtml
+http://www.baseball-reference.com/players/l/leeca01.shtml
 
 M
 http://www.baseball-reference.com/players/m/mcgwima01.shtml
 http://www.baseball-reference.com/players/m/martied01.shtml
 http://www.baseball-reference.com/players/m/mattido01.shtml
 http://www.baseball-reference.com/players/m/martiti02.shtml
+http://www.baseball-reference.com/players/m/mcgrifr01.shtml
+http://www.baseball-reference.com/players/m/murphda05.shtml
+http://www.baseball-reference.com/players/m/machama01.shtml
 
 O
 http://www.baseball-reference.com/players/o/ortizda01.shtml
@@ -43,10 +52,13 @@ P
 http://www.baseball-reference.com/players/p/pujolal01.shtml
 http://www.baseball-reference.com/players/p/penaca01.shtml
 
+R
+http://www.baseball-reference.com/players/r/reynoma01.shtml
 
 S
 http://www.baseball-reference.com/players/s/sosasa01.shtml
 http://www.baseball-reference.com/players/s/strawda01.shtml
+http://www.baseball-reference.com/players/s/schmimi01.shtml
 
 T
 http://www.baseball-reference.com/players/t/thomeji01.shtml
