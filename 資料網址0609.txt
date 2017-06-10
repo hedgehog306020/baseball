@@ -11,7 +11,8 @@ http://www.baseball-reference.com/players/b/braunry02.shtml
 http://www.baseball-reference.com/players/b/boonebr01.shtml
 http://www.baseball-reference.com/players/b/berkmla01.shtml
 http://www.baseball-reference.com/players/b/bagweje01.shtml
-
+http://www.baseball-reference.com/players/b/brosisc01.shtml
+http://www.baseball-reference.com/players/b/bicheda01.shtml
 
 C
 http://www.baseball-reference.com/players/c/castivi02.shtml
@@ -24,6 +25,8 @@ D
 http://www.baseball-reference.com/players/d/dunnad01.shtml
 http://www.baseball-reference.com/players/d/delgaca01.shtml
 
+E
+http://www.baseball-reference.com/players/e/evereca01.shtml
 
 F
 http://www.baseball-reference.com/players/f/fieldpr01.shtml
@@ -36,15 +39,20 @@ http://www.baseball-reference.com/players/g/glaustr01.shtml
 http://www.baseball-reference.com/players/g/giambja01.shtml
 http://www.baseball-reference.com/players/g/greensh01.shtml
 http://www.baseball-reference.com/players/g/gonzaad01.shtml
+http://www.baseball-reference.com/players/g/garcino01.shtml
 
 H
 http://www.baseball-reference.com/players/h/howarry01.shtml
 http://www.baseball-reference.com/players/h/heltoto01.shtml
 http://www.baseball-reference.com/players/h/hillaa01.shtml
 
+J
+http://www.baseball-reference.com/players/j/justida01.shtml
+
 K
 http://www.baseball-reference.com/players/k/kingmda01.shtml
 http://www.baseball-reference.com/players/k/kentje01.shtml
+http://www.baseball-reference.com/players/k/knoblch01.shtml
 
 L
 http://www.baseball-reference.com/players/l/leede02.shtml
@@ -60,8 +68,13 @@ http://www.baseball-reference.com/players/m/mcgrifr01.shtml
 http://www.baseball-reference.com/players/m/murphda05.shtml
 http://www.baseball-reference.com/players/m/morsemi01.shtml
 
+N
+http://www.baseball-reference.com/players/n/nixontr01.shtml
+
 O
 http://www.baseball-reference.com/players/o/ortizda01.shtml
+http://www.baseball-reference.com/players/o/o'neipa01.shtml
+http://www.baseball-reference.com/players/o/offerjo01.shtml
 
 P
 http://www.baseball-reference.com/players/p/pujolal01.shtml
@@ -84,8 +97,10 @@ http://www.baseball-reference.com/players/u/utleych01.shtml
 
 V
 http://www.baseball-reference.com/players/v/vaughmo01.shtml
+http://www.baseball-reference.com/players/v/varitja01.shtml
 
 W
 http://www.baseball-reference.com/players/w/winfida01.shtml
 http://www.baseball-reference.com/players/w/walkela01.shtml
 http://www.baseball-reference.com/players/w/willima04.shtml
+http://www.baseball-reference.com/players/w/willibe02.shtml
