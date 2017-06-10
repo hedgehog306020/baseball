@@ -1,3 +1,6 @@
+A
+http://www.baseball-reference.com/players/a/aybarer01.shtml
+
 B
 http://www.baseball-reference.com/players/b/bondsba01.shtml
 http://www.baseball-reference.com/players/b/beltrad01.shtml
@@ -32,10 +35,12 @@ http://www.baseball-reference.com/players/g/griffke02.shtml
 http://www.baseball-reference.com/players/g/glaustr01.shtml
 http://www.baseball-reference.com/players/g/giambja01.shtml
 http://www.baseball-reference.com/players/g/greensh01.shtml
+http://www.baseball-reference.com/players/g/gonzaad01.shtml
 
 H
 http://www.baseball-reference.com/players/h/howarry01.shtml
 http://www.baseball-reference.com/players/h/heltoto01.shtml
+http://www.baseball-reference.com/players/h/hillaa01.shtml
 
 K
 http://www.baseball-reference.com/players/k/kingmda01.shtml
@@ -53,6 +58,7 @@ http://www.baseball-reference.com/players/m/mattido01.shtml
 http://www.baseball-reference.com/players/m/martiti02.shtml
 http://www.baseball-reference.com/players/m/mcgrifr01.shtml
 http://www.baseball-reference.com/players/m/murphda05.shtml
+http://www.baseball-reference.com/players/m/morsemi01.shtml
 
 O
 http://www.baseball-reference.com/players/o/ortizda01.shtml
@@ -72,6 +78,9 @@ http://www.baseball-reference.com/players/s/schmimi01.shtml
 T
 http://www.baseball-reference.com/players/t/thomeji01.shtml
 http://www.baseball-reference.com/players/t/thomafr04.shtml
+
+U
+http://www.baseball-reference.com/players/u/utleych01.shtml
 
 V
 http://www.baseball-reference.com/players/v/vaughmo01.shtml
